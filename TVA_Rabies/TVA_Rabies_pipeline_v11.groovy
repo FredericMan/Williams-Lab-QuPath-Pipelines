@@ -5,6 +5,9 @@
 // Created: 2026-08-19
 // Last modified: 2026-09-30
 // Description: QuPath pipeline for analysing TVA-Rabies histological tracing experiments
+// Development history and version tracking:
+// See the associated Git repository:
+
 
 /**
  * ============================================================
